@@ -1,6 +1,6 @@
 This directory contains everything to create Fig 1.
 
-######################################
+###################################### 
 Underlying data:
 
 ./Data/ParticleTrajectoryAnnulusArena.txt
