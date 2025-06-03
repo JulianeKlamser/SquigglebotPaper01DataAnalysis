@@ -178,7 +178,6 @@ for t_i, Trajectory in enumerate(BulkTrajectories):
             
         else:
             FileName = script_dir + '/Data/F3a_Trajectory_ID%d.txt' % t_i
-            print(FileName)
             np.savetxt(FileName, Trajectory, fmt = '%d', header='sample trajectory indices' )
             print('save ', FileName)
             
