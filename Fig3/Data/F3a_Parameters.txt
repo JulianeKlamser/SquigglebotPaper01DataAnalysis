@@ -1,0 +1,2 @@
+# HeadTailLength, BulkRegionRadius, ArenaWallRadius
+10 235.26335 242.53954
