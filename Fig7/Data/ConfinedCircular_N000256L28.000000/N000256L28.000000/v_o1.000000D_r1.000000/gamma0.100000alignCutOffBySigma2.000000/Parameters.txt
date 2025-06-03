@@ -1,0 +1,2 @@
+# NumberOfParticles dummy dummy1 simTimeStep TimeStepsBetweenFrames f_active D_r gamma
+256 2.00000000 2.00000000 0.00100000 500.00000000 1.00000000 1.00000000 0.10000000
