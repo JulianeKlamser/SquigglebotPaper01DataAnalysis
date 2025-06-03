@@ -1,0 +1,3 @@
+# minimum and maximum frame defining the region of stable current
+30000
+230000
