@@ -89,7 +89,6 @@ for i, dummy in enumerate(max_r):
     max_r[i] = np.mean( sorted_r[-50:] ) # average over largest 50 distances to origin
 ArenaWallRadius = np.mean(max_r)
 BulkRegionRadius = bulkDef * ArenaWallRadius
-#print((ArenaWallRadius-BulkRegionRadius)/d_coll)
 
 
 ''' Identify collision events.
