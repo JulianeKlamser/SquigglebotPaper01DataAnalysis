@@ -7,7 +7,6 @@ Underlying data:
 
 Data file contain trajectory of the sqigglebot in disc arena.
 Content of data file: 1st column x position, 2nd column y position.
-Units of positions are in pixel and can be converted to cm through the relation 8.2 cm = 148 pix.
 Frames (individual positions) are recorded at a rate of 25 frames per second.
 
 ######################################
@@ -49,10 +48,8 @@ Figure of probability of outgoing angle
 The following files contain data for visualisation of incoming and outgoing angles used for Fig. 3a:
 	'./Data/F3a_Parameters.txt'
 	'./Data/F3a_InVectors_ID*.txt'
-	'./Data/F3a_InAngle_ID*.txt'
 	'./Data/F3a_Trajectory_ID*.txt'
 	'./Data/F3a_OutVectors_ID*.txt'
-	'./Data/F3a_OutAngle_ID*.txt'
 	'./Data/TrajectoryInDisk.txt'
 
 'TimeForward*.png' and 'TimeReversed*.png':

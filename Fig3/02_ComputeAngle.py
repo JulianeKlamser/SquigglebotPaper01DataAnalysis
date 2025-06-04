@@ -83,8 +83,9 @@ BulkRegionRadius = 0.97*ArenaWallRadius
  trajectory length of ds_min from the
  intersection point of the bulk region boundary
 '''
-RadiusOfBall = 148/2
-ds_min = 0.5898 * RadiusOfBall
+RadiusOfBall = 87.5118/2
+ds_min = RadiusOfBall
+
 
 '''
  find bulk trajectories
